@@ -29,7 +29,5 @@ The report uses sales data sourced from [insert source, e.g., Excel spreadsheet,
 ---
 
 ## 👨‍💻 Author
-- Donel Bautista – [@yourgithub](https://github.com/yourgithub)
-
----
+- Donel Bautista – https://github.com/atomic-noob
 
